@@ -2,25 +2,46 @@
 <head>
 <link rel="stylesheet" type="text/css" href="public/css/ghadagamal.css" />
 </head>
+ 
 <body>
-<h2>ghada gamal cv:</h2>
+<img  src="public/images/images.jpeg" width="15%" height="30%" align="left" border=" 10px solid " />
+<h1>ghada gamal el din fekry </h1>
+<h2> web developer</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+   
+<h3> personal info: </h3>
+<p>name<p> : ghada gamal el din fekry 
+<br>
+email :ghada_gamal92@hotmail.com
+<br>
+phone:01221840284
+<br>
+address:miami
+<hr>
 
-<table>
-  <tr>
-    <th>name</th>
-    <td>ghada gamal</td>
-  </tr>
-  <tr>
-    <th> education</th>
-    <td>faculty of engineering</td>
-  </tr>
-  <tr>
-    <th>graduation year</th>
-    <td>2014</td>
-  </tr>
-</table>
 
-</table>
+
+<h3>technical skills:</h3>
+<ul>
+  <li>c</li>
+  <li>c++</li>
+  <li>java</li>
+</ul> 
+<hr>
+<h3>personal skills:</h3>
+<ul>
+  <li>work under pressure</li>
+  <li>work in team</li>
+  
+</ul> 
+
+
+ 
 </body>
 </table>
 </html>
